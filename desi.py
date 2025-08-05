@@ -61,10 +61,10 @@ DUMMY_DATA = [
 ]
 
 API_LIST = [
-    "https://you-pom-lover.vercel.app/xnxx/10/school",
-    "https://you-pom-lover.vercel.app/xnxx/10/desi",
-    "https://you-pom-lover.vercel.app/xnxx/10/college",
-    "https://you-pom-lover.vercel.app/xnxx/10/bhabhi"
+    "https://you-pom-lover.vercel.app/xnxx/10/milf",
+    "https://you-pom-lover.vercel.app/xnxx/10/brunette",
+    "https://you-pom-lover.vercel.app/xnxx/10/black",
+    "https://you-pom-lover.vercel.app/xnxx/10/creampie"
 ]
 
 async def fetch_api_data(session, api_url):
